@@ -1,4 +1,7 @@
 # sandbox-econ-725
-Hello Myr!
+Hello World!
 
-This is a sandox repository for the ECON725 course. 
+This is a sandox repository for the ECON725 course.
+
+## Description
+This repo...
