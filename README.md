@@ -4,4 +4,4 @@ Hello World!
 This is a sandox repository for the ECON725 course.
 
 ## Description
-your mom
+This is a course at Emory.
